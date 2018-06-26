@@ -4,7 +4,7 @@
 https://codepen.io/xc2437/pen/pKOjEL                                
 
 - Reflection Video:
-    - Chaoran Xie:
+    - Chaoran Xie: https://youtu.be/SBzTLcLHE8A
     - Xueling Chen:	                                     
 - Brief Description:
 
